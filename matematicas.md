@@ -13,3 +13,6 @@ VIVA ESPAÑA
 Cambios realizados en la rama master tras crear la rama matrices. Estos cambios se aplicarán con REBASE
 
 Nuevos cambios antes del merge
+
+Edición desde GitHub
+Modificación hecha desde la web de GitHub
